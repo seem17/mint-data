@@ -1,0 +1,114 @@
+{
+  "id": "travel",
+  "learning": "ar",
+  "native": "ru",
+  "name": "Travel",
+  "level": "A2",
+  "items": [
+    {
+      "id": "es_top300_hola",
+      "term": "hola",
+      "phonetic": "/ˈo.la/",
+      "meaning": "привет, здравствуйте",
+      "example": "¡Hola! ¿Cómo estás hoy?"
+    },
+    {
+      "id": "es_top300_gracias",
+      "term": "gracias",
+      "phonetic": "/ˈɡɾa.θjas/",
+      "meaning": "спасибо, благодарю",
+      "example": "Muchas gracias por tu ayuda."
+    },
+    {
+      "id": "es_top300_buenos_dias",
+      "term": "buenos días",
+      "phonetic": "/ˈbwe.noz ˈði.as/",
+      "meaning": "доброе утро",
+      "example": "Buenos días a todos."
+    },
+    {
+      "id": "es_top300_por_favor",
+      "term": "por favor",
+      "phonetic": "/poɾ faˈβoɾ/",
+      "meaning": "пожалуйста",
+      "example": "Un café solo, por favor."
+    },
+    {
+      "id": "es_top300_adios",
+      "term": "adiós",
+      "phonetic": "/aˈðjos/",
+      "meaning": "до свидания, пока",
+      "example": "Adiós, nos vemos mañana."
+    },
+    {
+      "id": "es_top300_si",
+      "term": "sí",
+      "phonetic": "/si/",
+      "meaning": "да",
+      "example": "Sí, estoy de acuerdo."
+    },
+    {
+      "id": "es_top300_no",
+      "term": "no",
+      "phonetic": "/no/",
+      "meaning": "нет",
+      "example": "No, no tengo tiempo ahora."
+    },
+    {
+      "id": "es_top300_amigo",
+      "term": "el amigo",
+      "phonetic": "/aˈmi.ɣo/",
+      "meaning": "друг",
+      "example": "Él es mi mejor amigo."
+    },
+    {
+      "id": "es_top300_tiempo",
+      "term": "el tiempo",
+      "phonetic": "/ˈtjem.po/",
+      "meaning": "время, погода",
+      "example": "El tiempo pasa muy rápido."
+    },
+    {
+      "id": "es_top300_vida",
+      "term": "la vida",
+      "phonetic": "/ˈbi.ða/",
+      "meaning": "жизнь",
+      "example": "La vida es una aventura."
+    },
+    {
+      "id": "es_top300_casa",
+      "term": "la casa",
+      "phonetic": "/ˈka.sa/",
+      "meaning": "дом",
+      "example": "Mi casa tiene un jardín."
+    },
+    {
+      "id": "es_top300_agua",
+      "term": "el agua",
+      "phonetic": "/ˈa.ɣwa/",
+      "meaning": "вода",
+      "example": "Bebo un vaso de agua fresca."
+    },
+    {
+      "id": "es_top300_comida",
+      "term": "la comida",
+      "phonetic": "/koˈmi.ða/",
+      "meaning": "еда, пища",
+      "example": "La comida española es deliciosa."
+    },
+    {
+      "id": "es_top300_trabajo",
+      "term": "el trabajo",
+      "phonetic": "/tɾaˈβa.xo/",
+      "meaning": "работа",
+      "example": "Tengo mucho trabajo hoy."
+    },
+    {
+      "id": "es_top300_noche",
+      "term": "la noche",
+      "phonetic": "/ˈno.tʃe/",
+      "meaning": "ночь, вечер",
+      "example": "Buenas noches, que descanses."
+    }
+  ]
+}

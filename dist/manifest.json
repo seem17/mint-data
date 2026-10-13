@@ -1,0 +1,522 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T03:16:35.838Z",
+  "packs": [
+    {
+      "id": "top-300",
+      "learning": "en",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "en",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "es",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "es",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "de",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "de",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "fr",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "fr",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "it",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "it",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "pt",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "pt",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "ru",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "ru",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "tr",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "tr",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "ja",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "ja",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "ko",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "ko",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "zh",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "zh",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "ar",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "ar",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "uz",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "tg"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "tg": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "uz",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "tg"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "tg": "Travel"
+      }
+    },
+    {
+      "id": "top-300",
+      "learning": "tg",
+      "theme": "Top 300",
+      "level": "A1",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz"
+      ],
+      "names": {
+        "en": "Top 300",
+        "ru": "Top 300 Essentials",
+        "uz": "Top 300 Essentials"
+      }
+    },
+    {
+      "id": "travel",
+      "learning": "tg",
+      "theme": "Travel",
+      "level": "A2",
+      "itemCount": 15,
+      "natives": [
+        "en",
+        "ru",
+        "uz"
+      ],
+      "names": {
+        "en": "Travel",
+        "ru": "Travel",
+        "uz": "Travel"
+      }
+    }
+  ]
+}
